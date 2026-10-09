@@ -1,0 +1,6 @@
+{
+  "name": "NetShield AI - Network Security & Threat Intelligence",
+  "description": "Production-grade AI-powered network security operations center with real-time telemetry, anomaly detection, threat alerts, IP analysis, firewall controls, and downloadable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
